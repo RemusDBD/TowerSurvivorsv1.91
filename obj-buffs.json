@@ -1,0 +1,70 @@
+{
+  "original": {
+    "Bfro": [],
+    "Bpoi": [],
+    "Bpsd": [],
+    "Bspo": [],
+    "Bssd": [],
+    "Brej": [],
+    "BNdh": [],
+    "BCbf": [],
+    "Bliq": [],
+    "XHbz": [],
+    "ANmd": [],
+    "XNmo": []
+  },
+  "custom": {
+    "B000:Bpsd": [],
+    "B001:Bpoi": [],
+    "B002:BPSE": [],
+    "B003:Bpoi": [],
+    "B004:Bpsd": [],
+    "B008:Bcri": [
+      {
+        "id": "frac",
+        "type": "string",
+        "level": 0,
+        "column": 0,
+        "value": "other"
+      }
+    ],
+    "B006:Bpoi": [],
+    "B007:Bpsd": [],
+    "B009:Bpoi": [],
+    "B00A:Bpsd": [],
+    "B00B:BPSE": [],
+    "B00C:BPSE": [],
+    "B00D:Bpoi": [],
+    "B00E:Bpsd": [],
+    "B005:BNic": [],
+    "B00F:Bpoi": [],
+    "B00G:Bpsd": [],
+    "B00H:BHad": [],
+    "B00I:Bpoi": [],
+    "B00J:Bpsd": [],
+    "B00K:Bpoi": [],
+    "B00L:Bpsd": [],
+    "B00M:Bliq": [],
+    "B00N:Bliq": [],
+    "B00O:Bliq": [],
+    "B00P:Bliq": [],
+    "B00Q:Bliq": [],
+    "B00R:Bliq": [],
+    "B00S:Bliq": [],
+    "B00T:Bdtb": [],
+    "B00U:Bdcb": [],
+    "B00V:BHfs": [],
+    "X000:XHfs": [],
+    "B00W:Bliq": [],
+    "B00X:Bcri": [
+      {
+        "id": "frac",
+        "type": "string",
+        "level": 0,
+        "column": 0,
+        "value": "other"
+      }
+    ],
+    "B00Y:Brej": []
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "original": {},
+  "custom": {
+    "I000:fgrg": [
+      {
+        "id": "iabi",
+        "type": "string",
+        "level": 0,
+        "column": 0,
+        "value": "A0JV"
+      },
+      {
+        "id": "igol",
+        "type": "int",
+        "level": 0,
+        "column": 0,
+        "value": 0
+      },
+      {
+        "id": "iuse",
+        "type": "int",
+        "level": 0,
+        "column": 0,
+        "value": 0
+      },
+      {
+        "id": "idro",
+        "type": "int",
+        "level": 0,
+        "column": 0,
+        "value": 0
+      }
+    ],
+    "I001:fgrg": [
+      {
+        "id": "iabi",
+        "type": "string",
+        "level": 0,
+        "column": 0,
+        "value": "A0JV"
+      },
+      {
+        "id": "igol",
+        "type": "int",
+        "level": 0,
+        "column": 0,
+        "value": 0
+      },
+      {
+        "id": "idro",
+        "type": "int",
+        "level": 0,
+        "column": 0,
+        "value": 0
+      }
+    ],
+    "I002:fgrg": [
+      {
+        "id": "iabi",
+        "type": "string",
+        "level": 0,
+        "column": 0,
+        "value": "A0JV"
+      },
+      {
+        "id": "igol",
+        "type": "int",
+        "level": 0,
+        "column": 0,
+        "value": 0
+      },
+      {
+        "id": "iusa",
+        "type": "int",
+        "level": 0,
+        "column": 0,
+        "value": 0
+      },
+      {
+        "id": "idro",
+        "type": "int",
+        "level": 0,
+        "column": 0,
+        "value": 0
+      }
+    ],
+    "I003:fgrg": [
+      {
+        "id": "iabi",
+        "type": "string",
+        "level": 0,
+        "column": 0,
+        "value": "A0JV"
+      },
+      {
+        "id": "igol",
+        "type": "int",
+        "level": 0,
+        "column": 0,
+        "value": 0
+      },
+      {
+        "id": "iusa",
+        "type": "int",
+        "level": 0,
+        "column": 0,
+        "value": 0
+      },
+      {
+        "id": "idro",
+        "type": "int",
+        "level": 0,
+        "column": 0,
+        "value": 0
+      }
+    ],
+    "I004:oli2": [
+      {
+        "id": "igol",
+        "type": "int",
+        "level": 0,
+        "column": 0,
+        "value": 0
+      },
+      {
+        "id": "iabi",
+        "type": "string",
+        "level": 0,
+        "column": 0,
+        "value": "A0Q1"
+      }
+    ],
+    "I005:oli2": [
+      {
+        "id": "igol",
+        "type": "int",
+        "level": 0,
+        "column": 0,
+        "value": 0
+      },
+      {
+        "id": "iabi",
+        "type": "string",
+        "level": 0,
+        "column": 0,
+        "value": "A0Q2"
+      }
+    ]
+  }
+}
